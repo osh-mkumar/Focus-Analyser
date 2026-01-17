@@ -75,6 +75,12 @@ To ensure reliability, the system is designed to **degrade gracefully** when the
 
 This reflects **real-world AI reliability constraints**.
 
+<img width="943" height="473" alt="image" src="https://github.com/user-attachments/assets/41eaf796-f451-46b5-8e70-7dfbd7a268e7" />
+
+
+<img width="956" height="439" alt="image" src="https://github.com/user-attachments/assets/07541516-f436-4dba-ae4a-78b6fa17dd89" />
+
+
 ---
 
 ## 🧪 Tech Stack
